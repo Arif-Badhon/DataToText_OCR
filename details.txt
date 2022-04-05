@@ -1,32 +1,31 @@
-‘ q
+JUTCH-BANGLA BANK LIMITED
 
-“s
-@ DUTCH BANGLA BANK
+ACADEMY MR FT-2 CHUA
 
-Transaction Sum pee enterprise
-Customer Co
-woes con 1094643
+DATE IME TERMINAL 1D
+
+12/12/21 09:34:01 25134094 _
+le Dentw Eker
+
+ARD NO #:XXXXXXXXXXXXXXXIO 14
+
+(oO SZ4 |
+
+TXN NO. 00325472 RESP CODE: 0
+
+FUNDS TRANSFER
+
+FR A/CH: 1351010120022
+TO A/C#: 1031100022462
+TXN AMOUNT: TK 52.00 soe"
+
+AVAIL BAL : TK. se
+
+Cok ES,
+
+EMV APP ID: F0504442420110
+THANK YOU FOR USING
+OBBL NETWORK
 
  
-
-Transaction Type: Fund Transfer po- 12731
-Transaction ID : 102674119
-
-Date : December 02, 2021
-Initiator : 01711486765
-
-From Account : 7017512561124
-Account Name : MD.FAZLERABBI
-
-To Account : 1031100022462
-Account Name : RICECO INTERNATIONAL
-Amount : 27076.0
-
-Fee 254.15
-
-Generated Time = 2021/12/02 14:40:55
-
-Teller Signature Customer Signature
-
-This is a system generated report of DBBL
 
